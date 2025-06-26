@@ -1,1 +1,1 @@
-# i-get-happy-cahtbot
+# i-get-happy-chatbot
